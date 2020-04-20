@@ -15,7 +15,7 @@
  */
 
 const {assert} = require('./helper');
-const keyDefinitions = require('./USKeyboardLayout');
+const {keyDefinitions} = require('./USKeyboardLayout');
 
 /**
  * @typedef {Object} KeyDescription
